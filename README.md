@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Eu sou Leonardo Zucco de Uberaba, Minas Gerais - Brasil.</p>
+<p align="center">I'm Leonardo Zucco from Uberaba, Minas Gerais - Brazil.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭- Estou atuando como Gerente de DevOps na Bug Ware.<br><br>📚 - Cursando Análise e Desenvolvimento de Sistemas.<br><br>🎯 - Me capacitar ao máximo para me tornar uma excelente profissional.</p>
+<p align="left">🔭- I'm working as Manager DevOps at BugWare.<br>📚 - I'm currently studying Systems Analysis and Development.<br>🎯 - Become an excellent professional.</p>
 
 ###
 
