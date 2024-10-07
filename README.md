@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World 👋</h1>
+<h1 align="center">Olá, Mundo 👋</h1>
 
 ###
 
@@ -8,7 +8,11 @@
 
 ###
 
-<p align="left">I'm Leonardo Zucco from Uberaba, Minas Gerais - Brazil.</p>
+<p align="center">Eu sou Leonardo Zucco de Uberaba, Minas Gerais - Brasil.</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/leozuccogont/leozuccogont/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -16,7 +20,7 @@
 
 ###
 
-<p align="left">🔭- I'm participating as a DevOps Manager at Bug Ware.<br><br>📚 - I'm studying Systems Analysis and Development.<br><br>🎯 - Train me to the maximum to become an excellent professional.</p>
+<p align="left">🔭- Estou atuando como Gerente de DevOps na Bug Ware.<br><br>📚 - Cursando Análise e Desenvolvimento de Sistemas.<br><br>🎯 - Me capacitar ao máximo para me tornar uma excelente profissional.</p>
 
 ###
 
@@ -43,9 +47,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=leozuccogont&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/leozuccogont/leozuccogont/output/snake.svg" alt="Snake animation" />
 
 ###
